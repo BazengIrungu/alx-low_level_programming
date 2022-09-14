@@ -1,1 +1,1 @@
-Lessons on C including Practice
+This repo contains C projects from lessons in ALX.
